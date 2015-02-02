@@ -12,4 +12,4 @@ Draw a xmas tree with the following shape:
    X
   XXX
  XXXXX
-XXXXXXX
+XXXXXXX  

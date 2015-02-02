@@ -3,13 +3,13 @@
 
  Draw a xmas tree with multiple levels:
 
-   X<br>
-   X<br>
-  XXX<br>
-   X<br>
-  XXX<br>
- XXXXX<br>
-   X<br>
-  XXX<br>
- XXXXX<br>
+&nbsp;&nbsp;&nbsp;X<br>
+&nbsp;&nbsp;&nbsp;X<br>
+&nbsp;&nbsp;XXX<br>
+&nbsp;&nbsp;&nbsp;X<br>
+&nbsp;&nbsp;XXX<br>
+&nbsp;XXXXX<br>
+&nbsp;&nbsp;&nbsp;X<br>
+&nbsp;&nbsp;XXX<br>
+&nbsp;XXXXX<br>
 XXXXXXX<br>

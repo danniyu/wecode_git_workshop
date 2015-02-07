@@ -24,14 +24,17 @@ public class XmasTree {
         String triangle = "";
 
         for (int i = 0; i < n; i++) {
+        	
             for (int j = 0; j < max-i-1; j++) {
                 triangle += " ";
             }
-
-            for (int j = 0; j < i*2+1; j++) {
-                triangle += "X";
-            }
-
+            if (n==1){
+	        	triangle += "*";
+	        } else {
+	            for (int j = 0; j < i*2+1; j++) {
+	                triangle += "X";
+	            }
+        	}
             triangle += "\n";
         }
         return triangle;
